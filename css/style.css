@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #3FC1C0;
+  color: #3C9993;
   padding: 10px 0px 10px 10px;
   background-color: #EDF6F9;
 }
@@ -86,7 +86,7 @@ img {
 }
 
 .myButton:hover {
-  background-color: #BEE3DB;
+  background-color: rgba(225,225,225,.35);
 }
 
 .myButton:active {
@@ -102,11 +102,11 @@ img {
 
 
 .a {
-  
+
 }
 
 a {
-   color: #4ECDC4;
+   color: #3C9993;
 }
 
 .c {
