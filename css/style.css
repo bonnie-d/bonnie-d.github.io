@@ -159,6 +159,13 @@ a {
 footer {
   padding-top: 44px;
   background-color: #6FFFE9;
+  height: 100%;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 @media all and (max-width:700px) {
