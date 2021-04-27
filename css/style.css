@@ -172,13 +172,13 @@ footer div {
   background-color: #6FFFE9;
   height: 100%;
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 14px;
+  font-size: 30px;
   display: flex;
   align-content: center;
-  padding: 10px 20px;
+  padding: 10px 30px 40px;
   color: rgba(255, 255, 255, 0.7);
   justify-content: space-between;
-  padding: 10px 20px;
+  padding: 10px 30px 40px;
   color: rgb(255, 255, 255, 0.5);
 }
 
@@ -197,7 +197,7 @@ footer div {
 }
 
 .icons a:hover {
-  color: #fff;
+  color: rgb(255, 255, 255, 0.5);
 }
 
 @media all and (max-width:700px) {
