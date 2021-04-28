@@ -9,8 +9,8 @@ body {
 
 header, footer div {
   background: #0cebeb;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+background: -webkit-linear-gradient(to left, #00EDB6, #03A892);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #00EDB6, #03A892); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
   text-align: left;
   justify-content: space-between;
 }
@@ -172,13 +172,12 @@ footer div {
   background-color: #6FFFE9;
   height: 100%;
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 30px;
   display: flex;
+  font-size: 18px;
   align-content: center;
-  padding: 10px 30px 40px;
+  padding: 10px 20px;
   color: rgba(255, 255, 255, 0.7);
   justify-content: space-between;
-  padding: 10px 30px 40px;
   color: rgb(255, 255, 255, 0.5);
 }
 
@@ -189,6 +188,7 @@ footer div {
 .icons {
   list-style-type: none;
   display: inline-flex;
+  font-size: 35px;
 }
 
 .icons a {
