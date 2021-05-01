@@ -151,8 +151,7 @@ a {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  padding: 0px 20px 20px 20px;
 }
 
 .logo {
@@ -207,4 +206,8 @@ footer div {
   .description {
     font-size: 18px;
   }
+}
+
+.project {
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 100%);
 }
